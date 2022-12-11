@@ -29,9 +29,9 @@ https://replit.com/@NisarLDev/day-1-4-exercise
 
 2 - Band Name Generator to the console.
 
+ Band Name Generator to the console:
 
-
-
+https://replit.com/@NisarLDev/band-name-generator-start
 
 
 
