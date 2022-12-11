@@ -21,6 +21,10 @@ The Len function to get the length of a string:
 
 https://replit.com/@NisarLDev/day-1-3-exercise
 
+Switches the values stored in the variables A and B:
+
+https://replit.com/@NisarLDev/day-1-4-exercise
+
 
 
 2 - Band Name Generator to the console.
