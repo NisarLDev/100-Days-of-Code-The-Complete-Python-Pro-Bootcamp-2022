@@ -8,6 +8,8 @@ b = input("b: ")
 
 a, b = b, a
 
+#Or c = a and a = b and finish with b = c
+
 #Write your code above this line 👆
 ####################################
 
