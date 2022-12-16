@@ -1,4 +1,4 @@
-#README
+##### README
 
 First Day exercises:
 
@@ -65,5 +65,3 @@ Bibliography:
 12 - https://levelup.gitconnected.com/understanding-the-copy-function-in-python-c41a4262bd23
 
 13 - https://stackoverflow.com/questions/13503079/how-to-create-a-copy-of-a-python-function
-
-14 - 
