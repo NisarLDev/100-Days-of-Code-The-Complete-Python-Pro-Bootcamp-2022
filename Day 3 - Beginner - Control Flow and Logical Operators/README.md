@@ -38,7 +38,7 @@ Euclidean division:
 
 3 - Online calculator of Euclidean division: https://www.dcode.fr/euclidean-division
 
-4 - Implementations in Programing Lenguages of the Euclidean division: http://compoasso.free.fr/primelistweb/page/prime/euclide_en.php
+4 - Implementations in Programing Lenguages of the Euclidean division:   http://compoasso.free.fr/primelistweb/page/prime/euclide_en.php
 
 5 - https://www.cs.cornell.edu/courses/cs2800/2017sp/lectures/lec29-division.html
 
