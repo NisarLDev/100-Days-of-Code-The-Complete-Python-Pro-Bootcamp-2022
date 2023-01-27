@@ -43,3 +43,33 @@ Euclidean division:
 5 - https://www.cs.cornell.edu/courses/cs2800/2017sp/lectures/lec29-division.html
 
 6 - https://www.cuemath.com/numbers/euclids-division-algorithm/
+
+7 - https://www.geogebra.org/m/cqujf5cg
+
+8 - https://lexique.netmath.ca/en/euclidean-division/
+
+9 - https://www.expii.com/t/reduction-modulo-n-vs-euclidean-division-by-n-4012
+
+10 - https://testbook.com/learn/maths-euclids-division-algorithm/
+
+11 - https://es.mathworks.com/help/simulink/gui/signed-integer-division-rounds-to_mw_7d578628-d2ac-4baa-a378-7534434071a8.html
+
+12 - Implementations in Fortran Programing Lenguage of the Euclidean division: https://fortran-lang.org/en/learn/best_practices/integer_division/
+
+13 - https://hal.science/inria-00000159/
+
+14 - https://www.ibm.com/docs/en/zos/2.1.0?topic=operators-integer-division
+
+15 - Implementations in Java Programing Lenguage of the Euclidean division: https://codegym.cc/groups/posts/integer-division-java
+
+16 - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/divmodnote-letter.pdf
+
+17 - https://byjus.com/maths/euclid-division-lemma/
+
+18 - http://www.shodor.org/interactivate/discussions/IntegerDivision/
+
+19 - https://blog.teclado.com/pythons-modulo-operator-and-floor-division/
+
+20 - https://press.rebus.community/programmingfundamentals/chapter/integer-division-and-modulus/
+
+21 - Implementations in C++ Programing Lenguage of the Euclidean division: https://archive.org/details/cnx-org-col10621/page/n35/mode/2up
