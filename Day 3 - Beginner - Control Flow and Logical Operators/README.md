@@ -73,3 +73,47 @@ Euclidean division:
 20 - https://press.rebus.community/programmingfundamentals/chapter/integer-division-and-modulus/
 
 21 - Implementations in C++ Programing Lenguage of the Euclidean division: https://archive.org/details/cnx-org-col10621/page/n35/mode/2up
+
+22 - https://en.algorithmica.org/hpc/arithmetic/division/
+
+23 - https://discuss.ocaml.org/t/integer-division-behaviour/5815
+
+24 - Cryptographic deployments in cloud environments using Euclidean division: https://ieeexplore.ieee.org/document/9396347
+
+25 - Implementations in NIM Programing Lenguage of the Euclidean division: https://forum.nim-lang.org/t/879
+
+26 - Implementations in C++ Programing Lenguage of the Euclidean division: https://linuxhint.com/integer-division-cpp/
+
+27 - Implementations in R Programing Lenguage of the Euclidean division: https://search.r-project.org/CRAN/refmans/numbers/html/div.html
+
+28 - https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm
+
+29 -Implementations in Java Programing Lenguage of the Euclidean division: http://www.java2s.com/ref/java/java-double-type-unintended-integer-division.html
+
+30 - Ethereum Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/integer-division/
+
+31 - Arm processors: https://developer.arm.com/documentation/ka002336/latest
+
+32 - https://www.webpages.uidaho.edu/learn/math/lessons/lesson01/1_05.htm
+
+33 - Biotecnology: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8258644/
+
+34 - https://math.ou.edu/~alutz/andrews-notes-0617.pdf
+
+35 - https://www.ixl.com/math/grade-7/integer-division-rules
+
+36 - https://www.superprof.es/blog/aritmetica-aprender-a-dividir/
+
+37 - https://www.sololearn.com/discuss/1508442/integer-division-without-or
+
+38 - https://fernandorevilla.es/2015/01/16/division-euclidea-de-polinomios/
+
+40 - https://hmong.es/wiki/Euclidean_division
+
+41 - http://diccionario.sensagent.com/Divisi%C3%B3n%20eucl%C3%ADdea/es-es/
+
+42 - https://www.aceptaelreto.com/pub/problems/v003/04/st/problem.pdf
+
+43 - https://es-academic.com/dic.nsf/eswiki/383516
+
+44 - https://cuadernos.elcartapacio.es/demates/complementos/numeros/la-division-entera/
