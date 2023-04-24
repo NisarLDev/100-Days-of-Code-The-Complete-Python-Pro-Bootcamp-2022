@@ -2,7 +2,7 @@ Day 4 of exercises:
 
 Random module:
 
-1 - https://replit.com/@NisarLDev/day-4-end?v=1
+1 - https://replit.com/@NisarLDev/day-4-end
 
 
 
