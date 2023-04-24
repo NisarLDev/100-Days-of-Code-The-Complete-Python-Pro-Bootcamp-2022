@@ -4,6 +4,8 @@ Random module:
 
 1 - https://replit.com/@NisarLDev/day-4-end
 
+Side_of_coin_random.py:
+
 2 - https://replit.com/@NisarLDev/day-4-1-exercise
 
 Bibliography:
