@@ -1,12 +1,17 @@
 Day 4 of exercises:
 
-Random module:
+1 - Random module:
 
-1 - https://replit.com/@NisarLDev/day-4-end
+https://replit.com/@NisarLDev/day-4-end
 
-Side_of_coin_random.py:
+2 - Side of coin random:
 
-2 - https://replit.com/@NisarLDev/day-4-1-exercise
+https://replit.com/@NisarLDev/day-4-1-exercise
+
+3 - Banker Roulette:
+
+https://replit.com/@NisarLDev/day-4-2-exercise
+
 
 Bibliography:
 
