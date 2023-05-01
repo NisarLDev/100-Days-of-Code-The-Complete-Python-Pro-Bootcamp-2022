@@ -36,3 +36,11 @@ Bibliography:
 10 - https://rico-schmidt.name/pymotw-3/random/index.html
 
 11 - https://unipython.com/numeros-aleatorios-modulo-random/
+
+12 - https://www.delftstack.com/es/howto/python/python-randomly-select-from-list/
+
+13 - https://www.delftstack.com/howto/python/python-randomly-select-from-list/
+
+14 - https://www.techiedelight.com/es/randomly-select-element-from-list-python/
+
+15 - https://parzibyte.me/blog/2019/03/19/python-seleccionar-elemento-aleatorio-arreglo-lista/
