@@ -44,3 +44,33 @@ Bibliography:
 14 - https://www.techiedelight.com/es/randomly-select-element-from-list-python/
 
 15 - https://parzibyte.me/blog/2019/03/19/python-seleccionar-elemento-aleatorio-arreglo-lista/
+
+16 - http://match.stanford.edu/reference/misc/sage/misc/prandom.html
+
+17 - https://web.stanford.edu/class/archive/cs/cs109/cs109.1206/handouts/H03_python_slides.pdf
+
+18 - https://pythonhow.com/how/generate-a-random-integer/
+
+19 - https://note.nkmk.me/en/python-random-randrange-randint/
+
+20 - https://sparkbyexamples.com/python/generate-random-integers-between-0-and-9-in-python/
+
+21 - https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
+
+22 - https://www.digitalocean.com/community/tutorials/randint-method-in-python
+
+23 - https://www.slingacademy.com/article/python-generate-a-random-integer-between-min-and-max/
+
+24 - https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+
+25 - https://www.geeksforgeeks.org/python-randint-function/
+
+26 - https://pynative.com/python-random-randrange/
+
+27 - https://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9
+
+28 - https://www.w3schools.com/python/ref_random_randint.asp
+
+29 - https://docs.python.org/3/library/random.html
+
+30 - https://docs.python.org/3/library/secrets.html
