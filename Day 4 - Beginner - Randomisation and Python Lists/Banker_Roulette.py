@@ -27,21 +27,21 @@ num_items = len(names);
 random_choice = random.randint(0, num_items - 1);
 person_who_will_pay = names[random_choice];
 
-print(person_who_will_pay + "is going to buy the meal today!");
+print(person_who_will_pay + " is going to buy the meal today!");
 ##################################################################
 ##################################################################
 
 # My chosen solution 
 import random;
 
-def selectRandom(names):;
+def selectRandom(names):
  return random.choice(names);
 print(selectRandom(names), "is going to buy the meal today!");
 
 # Using module of Python "secrets" for secure PRNG
 import secrets;
 
-def selectRandom(names):;
+def selectRandom(names):
  return secrets.choice(names);
 print(selectRandom(names), "is going to buy the meal today!");
 
