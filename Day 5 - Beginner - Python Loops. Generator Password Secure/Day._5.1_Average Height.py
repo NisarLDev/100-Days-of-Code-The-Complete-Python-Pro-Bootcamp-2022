@@ -18,5 +18,8 @@ print(f"number of students = {number_of_students}")
 
 average_height = round(total_height / number_of_students)
 print(average_height)
+
+#Solution https://replit.com/@NisarLDev/day-5-1-exercise?v=1
 #End of Code
 #End of File
+
