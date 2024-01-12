@@ -7,7 +7,7 @@ print(student_scores)
 
 #Write your code below this row 👇
 
-highest_score = None
+highest_score = 0
 
 for score in student_scores:
     if highest_score is None or score > highest_score:
