@@ -15,3 +15,15 @@ Highest_Score:
 1 - Cómo encontrar el valor de más grande de un vector o una lista en python (Python max value in list):
 
 https://www.delftstack.com/es/howto/python/python-max-value-in-list/
+
+2 - Función Enumerate de Python(Function Enumerate on Python):
+
+https://blog.hubspot.es/website/que-es-python-enumerate
+
+3 - Funciones en Python(Functions on Python):
+
+https://blog.hubspot.es/website/funciones-python
+
+4 - Programación funcional (Functional Programming):
+
+https://docs.python.org/es/3.8/howto/functional.html
