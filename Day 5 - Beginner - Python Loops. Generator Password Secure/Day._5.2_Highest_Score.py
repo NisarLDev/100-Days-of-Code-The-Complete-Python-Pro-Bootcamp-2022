@@ -7,13 +7,13 @@ print(student_scores)
 
 #Write your code below this row 👇
 
-max_value = 0
+highest_score = None
 
-for num in student_scores:
-    if max_value is None or num > max_value:
-        max_value = num
+for score in student_scores:
+    if highest_score is None or score > highest_score:
+        highest_score = score
 
-print("Maximum value:", max_value)
+print(f"The highest score in the class is: {highest_score}")
 
 #Solution on Repl.it: https://replit.com/@NisarLDev/day-5-2-exercise?v=1
 #End of code
