@@ -27,3 +27,10 @@ https://blog.hubspot.es/website/funciones-python
 4 - Programación funcional (Functional Programming):
 
 https://docs.python.org/es/3.8/howto/functional.html
+
+#### FizzBuzz:
+
+1 - Rosetta Code:
+
+https://rosettacode.org/wiki/FizzBuzz
+
