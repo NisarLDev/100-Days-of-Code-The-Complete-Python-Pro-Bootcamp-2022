@@ -34,3 +34,16 @@ https://docs.python.org/es/3.8/howto/functional.html
 
 https://rosettacode.org/wiki/FizzBuzz
 
+#### PyPassword generator:
+
+1- https://geekflare.com/es/password-generator-python-code/
+
+2 - https://keepcoding.io/blog-frr/creando-generador-de-contrasenas-con-python/
+
+3 - https://www.pythonmania.net/es/2009/05/02/generador-de-contrasenas-aleatoreas/
+
+4 - https://hackernoon.com/es/c%C3%B3mo-crear-un-generador-de-contrase%C3%B1as-aleatorias-usando-python
+
+5 - https://docs.python.org/es/3/library/secrets.html
+
+6 - https://geekflare.com/es/beginner-python-projects/
