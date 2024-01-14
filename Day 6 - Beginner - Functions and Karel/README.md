@@ -4,7 +4,7 @@
 
 https://reeborg.ca/index_en.html
 
-2 - Python Optimizing solution to Reeborg's World Maze
+2 - Python Optimizing solution to Reeborg's World Maze. This is a same solution used with Angela Yu in this course.
 
 https://yt.artemislena.eu/watch?v=fnLVz6r_1-w
 
