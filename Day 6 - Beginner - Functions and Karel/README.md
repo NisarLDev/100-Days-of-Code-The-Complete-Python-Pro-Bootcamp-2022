@@ -12,3 +12,7 @@ https://yt.artemislena.eu/watch?v=fnLVz6r_1-w
 3 - Python Solution to Reeborg's World Maze
 
 https://yt.artemislena.eu/watch?v=v8a6V6NPpjg
+
+4 - Programming diferents algorithms to determining the best way to solve Maze Puzzle
+
+https://yt.artemislena.eu/watch?v=McMU-WuJwG0
