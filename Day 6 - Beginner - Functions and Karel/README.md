@@ -16,3 +16,7 @@ https://yt.artemislena.eu/watch?v=v8a6V6NPpjg
 4 - Programming diferents algorithms to determining the best way to solve Maze Puzzle
 
 https://yt.artemislena.eu/watch?v=McMU-WuJwG0
+
+5 - PEP 8. The Python Style Guide
+
+https://www.python.org/dev/peps/pep-0008/
