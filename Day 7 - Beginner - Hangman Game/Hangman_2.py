@@ -18,7 +18,7 @@ guess = input("Guess a letter: ").lower()
 #e.g. If the user guessed "p" and the chosen word was "apple", then display should be ["_", "p", "p", "_", "_"].
 for letter in chosen_word:
     if letter == guess:
-        print("Right")
+        print(letter)
     else:
         print("Wrong")
 
