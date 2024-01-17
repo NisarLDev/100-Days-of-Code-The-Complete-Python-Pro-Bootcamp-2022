@@ -17,3 +17,6 @@ https://programacionfacil.org/cursos/python_basico/capitulo_5_strings_python_3.h
 
 https://programacionfacil.org/cursos/python_basico/capitulo_49_expresiones_regulares_split_sub_python.html
 
+5 - Hangman 2 in repl.it:
+
+https://replit.com/@NisarLDev/Day-7-Hangman-2-Start?v=1
