@@ -13,6 +13,10 @@ print(f'Pssst, the solution is {chosen_word}.')
 
 display = []
 
+for letter in chosen_word:
+    display += "_"
+print(display)
+
 guess = input("Guess a letter: ").lower()
 
 
