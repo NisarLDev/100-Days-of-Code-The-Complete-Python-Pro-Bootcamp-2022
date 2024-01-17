@@ -20,3 +20,7 @@ https://programacionfacil.org/cursos/python_basico/capitulo_49_expresiones_regul
 5 - Hangman 2 in repl.it:
 
 https://replit.com/@NisarLDev/Day-7-Hangman-2-Start?v=1
+
+6 - Hangman 3 in repli.it:
+
+https://replit.com/@NisarLDev/Day-7-Hangman-3-Start?v=1
