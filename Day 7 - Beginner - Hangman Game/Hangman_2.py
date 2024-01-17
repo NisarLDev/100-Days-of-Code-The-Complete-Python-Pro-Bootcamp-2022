@@ -12,6 +12,8 @@ print(f'Pssst, the solution is {chosen_word}.')
 #So if the chosen_word was "apple", display should be ["_", "_", "_", "_", "_"] with 5 "_" representing each letter to guess.
 
 display = []
+# Is this work the same
+# for _ in range(len(chosen_word)):
 
 for letter in chosen_word:
     display += "_"
