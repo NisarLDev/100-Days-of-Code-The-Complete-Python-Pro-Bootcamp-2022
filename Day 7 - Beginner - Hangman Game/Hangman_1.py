@@ -16,6 +16,8 @@ for letter in chosen_word:
     print("Right")
   else:
     print("Wrong")
+#
 # https://replit.com/@NisarLDev/Day-7-Hangman-1-Start?v=1
+#
 #End of Code
 #End of File
