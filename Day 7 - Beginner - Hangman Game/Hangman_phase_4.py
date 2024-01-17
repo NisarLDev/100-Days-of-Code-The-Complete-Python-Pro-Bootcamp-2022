@@ -66,7 +66,7 @@ word_length = len(chosen_word)
 
 #TODO-1: - Create a variable called 'lives' to keep track of the number of lives left. 
 #Set 'lives' to equal 6.
-
+lives = 6
 
 #Testing code
 print(f'Pssst, the solution is {chosen_word}.')
