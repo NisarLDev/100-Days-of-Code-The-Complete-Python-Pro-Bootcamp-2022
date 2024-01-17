@@ -26,3 +26,7 @@ while end_of_game == False:
           display[position] = letter
   
   print(display)
+#Condition to check end of game
+  if "_" not in display:
+    end_of_game = True
+    print("You win.")
