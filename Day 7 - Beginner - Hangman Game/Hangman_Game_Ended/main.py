@@ -13,7 +13,7 @@ end_of_game = False
 lives = 6
 
 #TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
-
+from hangman_art import logo
 #Testing code
 print(f'Pssst, the solution is {chosen_word}.')
 
