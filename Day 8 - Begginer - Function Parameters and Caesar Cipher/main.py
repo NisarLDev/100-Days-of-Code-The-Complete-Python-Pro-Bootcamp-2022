@@ -25,3 +25,12 @@ def greet_with(name, location):
     print(f"You are in {location}")
 # Positional arguments
 greet_with("Python","Earth")
+
+# Same function but using Keyword to call parameters of the function
+
+def greet_with(name, location):
+    print(f"Hello {name}")
+    print(f"You are in {location}")
+# Positional arguments with keywords
+greet_with(name="Python",location="Earth")
+greet_with(location="Earth", name="Python")
