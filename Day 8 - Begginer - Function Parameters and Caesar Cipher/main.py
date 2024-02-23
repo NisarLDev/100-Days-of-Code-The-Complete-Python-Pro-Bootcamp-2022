@@ -23,5 +23,5 @@
 def greet_with(name, location):
     print(f"Hello {name}")
     print(f"You are in {location}")
-
+# Positional arguments
 greet_with("Python","Earth")
