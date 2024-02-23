@@ -10,3 +10,5 @@ def greet():
   print("Second")
   print("Third")
 greet()
+
+# Function that allows for input
