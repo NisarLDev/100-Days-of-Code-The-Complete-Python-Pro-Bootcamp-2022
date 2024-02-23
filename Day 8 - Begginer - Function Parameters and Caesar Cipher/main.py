@@ -18,3 +18,10 @@
 #    print(f"How do you do {name}?")
 # The current argument for parameter named "name" is "Python"
 #greet_with_name("Python")
+
+# Functions with more than 1 input
+def greet_with(name, location):
+    print(f"Hello {name}")
+    print(f"You are in {location}")
+
+greet_with("Python","Earth")
