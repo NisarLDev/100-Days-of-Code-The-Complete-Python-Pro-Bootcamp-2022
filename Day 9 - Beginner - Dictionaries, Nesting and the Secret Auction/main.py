@@ -11,11 +11,18 @@ student_scores = {
 student_grades = {}
 
 #TODO-2: Write your code below to add the grades to student_grades.👇
-   
-student_grades ["Scores 91 - 100"] =  "Grade = Outstanding"
-student_grades ["Scores 81 - 90"] = "Grade = Exceeds Expectations"
-student_grades ["Scores 71 - 80"] = "Grade = Acceptable"
-student_grades ["Scores 70 or lower"] = "Grade = Fail"
+
+###################################################################
+#Example of dding new items to dictionary
+
+#student_grades ["Scores 91 - 100"] =  "Grade = Outstanding"
+#student_grades ["Scores 81 - 90"] = "Grade = Exceeds Expectations"
+#student_grades ["Scores 71 - 80"] = "Grade = Acceptable"
+#student_grades ["Scores 70 or lower"] = "Grade = Fail"
+
+###################################################################
+
+
 
 
 # 🚨 Don't change the code below 👇
