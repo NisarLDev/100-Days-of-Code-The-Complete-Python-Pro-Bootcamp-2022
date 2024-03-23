@@ -24,7 +24,6 @@ student_grades = {}
 
 
 
-
 # 🚨 Don't change the code below 👇
 print(student_grades)
 
