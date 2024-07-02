@@ -13,7 +13,7 @@ Day 1. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-T
 
 Day 2. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%202%20-%20Beginner%20-%20Understanding%20Data%20Types%20and%20How%20to%20Manipulate%20Strings#readme
 
-Day 3. README with bibliography:
+Day 3. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%203%20-%20Beginner%20-%20Control%20Flow%20and%20Logical%20Operators#readme
 
 Day 4. README with bibliography:
 
