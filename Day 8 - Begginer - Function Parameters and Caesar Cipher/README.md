@@ -40,6 +40,12 @@
 
   https://adacomputerscience.org/concepts/encrypt_caesar?examBoard=all&stage=all
 
-9 - The Caesar Cipher in Java. Baeldung.com.
+9 - The Caesar Cipher in Java with chi-square statistic. Baeldung.com.
 
   https://www.baeldung.com/java-caesar-cipher
+
+10 - The Caesar Cipher with chi-square statistic. Trinity College. UK.
+
+  http://www.cs.trincoll.edu/~crypto/historical/caesar.html
+
+  
