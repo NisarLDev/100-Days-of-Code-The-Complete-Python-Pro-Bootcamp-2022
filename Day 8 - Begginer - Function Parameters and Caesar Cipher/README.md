@@ -35,3 +35,7 @@
 7 - Learn How to Build a Caesar Cipher in JavaScript for Beginners. Bito.ai.
 
   https://bito.ai/resources/caesars-cipher-javascript-javascript-explained/
+
+8 - Caesar cipher. Ada computer science. University of Cambridge. Raspberry Pi Foundation.
+
+  https://adacomputerscience.org/concepts/encrypt_caesar?examBoard=all&stage=all
