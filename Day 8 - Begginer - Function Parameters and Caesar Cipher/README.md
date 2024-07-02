@@ -59,3 +59,7 @@
 13 -  Caesar Cipher. cryptomuseum.com.
 
   https://www.cryptomuseum.com/crypto/caesar/cipher.htm
+
+14 - Caesar Cipher. codedamn.com.
+
+  https://codedamn.com/news/cryptography/caesar-cipher-introduction
