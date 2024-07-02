@@ -6,7 +6,10 @@
 1 - https://replit.com/@NisarLDev/caesar-cipher-4-end?v=1
 
 
-2 - https://brilliant.org/wiki/caesar-cipher/
+
+2 - Caesar Cipher | Brilliant Math & Science Wiki.
+
+  https://brilliant.org/wiki/caesar-cipher/
 
 3 - https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
 
