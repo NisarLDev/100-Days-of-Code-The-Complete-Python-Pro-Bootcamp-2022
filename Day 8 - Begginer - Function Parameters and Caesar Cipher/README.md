@@ -13,3 +13,5 @@
 4 - https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
 
 5 - https://csis.gmu.edu/albanese/labs/caesar_cypher.php
+
+6 - https://maxalbanese.com/labs/crypto/caesar-cipher.php
