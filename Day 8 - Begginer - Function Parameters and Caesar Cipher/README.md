@@ -11,7 +11,9 @@
 
   https://brilliant.org/wiki/caesar-cipher/
 
-3 - https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+3 - Caesar Cipher in Cryptography - GeeksforGeeks.
+
+  https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
 
 4 - https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
 
