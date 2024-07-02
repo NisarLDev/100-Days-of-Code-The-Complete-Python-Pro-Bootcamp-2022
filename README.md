@@ -25,4 +25,4 @@ Day 7. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-T
 
 Day 8. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%208%20-%20Begginer%20-%20Function%20Parameters%20and%20Caesar%20Cipher#readme
 
-Day 9. README with bibliography:
+Day 9. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%209%20-%20Beginner%20-%20Dictionaries%2C%20Nesting%20and%20the%20Secret%20Auction#readme
