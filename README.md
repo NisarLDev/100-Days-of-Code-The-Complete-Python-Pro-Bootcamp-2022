@@ -15,7 +15,7 @@ Day 2. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-T
 
 Day 3. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%203%20-%20Beginner%20-%20Control%20Flow%20and%20Logical%20Operators#readme
 
-Day 4. README with bibliography:
+Day 4. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%204%20-%20Beginner%20-%20Randomisation%20and%20Python%20Lists#readme
 
 Day 5. README with bibliography:
 
