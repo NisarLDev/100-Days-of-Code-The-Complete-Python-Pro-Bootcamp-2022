@@ -44,8 +44,10 @@
 
   https://www.baeldung.com/java-caesar-cipher
 
-10 - The Caesar Cipher with chi-square statistic. Trinity College. UK.
+10 - The Caesar Cipher with chi-square statistic. Trinity College. UK. Year 2010.
 
   http://www.cs.trincoll.edu/~crypto/historical/caesar.html
 
-  
+11 - 1 Caesar Cipher. Department of Computer Science. University of Oxford. UK. Year 2008.
+
+  https://www.cs.ox.ac.uk/stephen.drape/materials/secret.pdf
