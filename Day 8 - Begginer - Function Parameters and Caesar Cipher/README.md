@@ -39,3 +39,7 @@
 8 - Caesar cipher. Ada computer science. University of Cambridge. Raspberry Pi Foundation.
 
   https://adacomputerscience.org/concepts/encrypt_caesar?examBoard=all&stage=all
+
+9 - The Caesar Cipher in Java. Baeldung.com.
+
+  https://www.baeldung.com/java-caesar-cipher
