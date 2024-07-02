@@ -15,3 +15,5 @@
 5 - https://csis.gmu.edu/albanese/labs/caesar_cypher.php
 
 6 - https://maxalbanese.com/labs/crypto/caesar-cipher.php
+
+7 - https://bito.ai/resources/caesars-cipher-javascript-javascript-explained/
