@@ -67,3 +67,7 @@
 15 - Caesar Cipher. crypto.interactive-maths.com.
 
   https://crypto.interactive-maths.com/caesar-shift-cipher.html
+
+16 - Caesar Cipher. Rosetta Code Wiki.
+
+  https://rosettacode.org/wiki/Caesar_cipher
