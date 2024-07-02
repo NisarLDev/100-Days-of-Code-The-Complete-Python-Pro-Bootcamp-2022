@@ -22,12 +22,12 @@
   https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
   
 
-5 - Caesar cipher demo. Massimiliano Albanese.
+5 - Caesar Cipher demo. Massimiliano Albanese.
 
   https://csis.gmu.edu/albanese/labs/caesar_cypher.php
 
 
-6 - Caesar cipher demo. New version. Massimiliano Albanese.
+6 - Caesar Cipher demo. New version. Massimiliano Albanese.
 
   https://maxalbanese.com/labs/crypto/caesar-cipher.php
   
@@ -36,7 +36,7 @@
 
   https://bito.ai/resources/caesars-cipher-javascript-javascript-explained/
 
-8 - Caesar cipher. Ada computer science. University of Cambridge. Raspberry Pi Foundation.
+8 - Caesar Cipher. Ada computer science. University of Cambridge. Raspberry Pi Foundation.
 
   https://adacomputerscience.org/concepts/encrypt_caesar?examBoard=all&stage=all
 
@@ -51,3 +51,7 @@
 11 - 1 Caesar Cipher. Department of Computer Science. University of Oxford. UK. Year 2008.
 
   https://www.cs.ox.ac.uk/stephen.drape/materials/secret.pdf
+
+12 - Caesar Cipher. Encyclopedia Britannica. 
+  
+  https://www.britannica.com/topic/Caesar-cipher 
