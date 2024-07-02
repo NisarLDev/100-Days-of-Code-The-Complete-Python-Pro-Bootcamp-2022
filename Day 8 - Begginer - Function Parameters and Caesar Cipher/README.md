@@ -22,8 +22,16 @@
   https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
   
 
-5 - https://csis.gmu.edu/albanese/labs/caesar_cypher.php
+5 - Caesar cipher demo. Massimiliano Albanese.
 
-6 - https://maxalbanese.com/labs/crypto/caesar-cipher.php
+  https://csis.gmu.edu/albanese/labs/caesar_cypher.php
 
-7 - https://bito.ai/resources/caesars-cipher-javascript-javascript-explained/
+
+6 - Caesar cipher demo. New version. Massimiliano Albanese.
+
+  https://maxalbanese.com/labs/crypto/caesar-cipher.php
+  
+
+7 - Learn How to Build a Caesar Cipher in JavaScript for Beginners. Bito.ai.
+
+  https://bito.ai/resources/caesars-cipher-javascript-javascript-explained/
