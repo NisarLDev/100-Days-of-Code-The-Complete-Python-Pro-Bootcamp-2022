@@ -17,7 +17,7 @@ Day 3. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-T
 
 Day 4. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%204%20-%20Beginner%20-%20Randomisation%20and%20Python%20Lists#readme
 
-Day 5. README with bibliography:
+Day 5. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%205%20-%20Beginner%20-%20Python%20Loops.%20Generator%20Password%20Secure#readme
 
 Day 6. README with bibliography:
 
