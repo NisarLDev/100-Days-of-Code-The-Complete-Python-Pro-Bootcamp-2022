@@ -21,7 +21,7 @@ Day 5. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-T
 
 Day 6. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%206%20-%20Beginner%20-%20Functions%20and%20Karel#readme
 
-Day 7. README with bibliography:
+Day 7. README with bibliography: https://github.com/NisarLDev/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-2022/tree/main/Day%207%20-%20Beginner%20-%20Hangman%20Game#readme
 
 Day 8. README with bibliography:
 
